@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="onestop.pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/badge-0D130D?style=for-the-badge&logo=appveyor&logoColor=26D215"/></a>
+<a href="onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-0D130D?style=for-the-badge&logo=appveyor&logoColor=26D215"/></a>
+<a href="baelab.pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Laboratory-0D130D?style=for-the-badge&logo=#34567C&logoColor=26D215"/></a>
