@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### 😄 I am interested in Process Mining, Data Mining
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongzzai1102@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongzzai&show_icons=true&theme=radical)
