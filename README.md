@@ -23,16 +23,8 @@ Here are some ideas to get you started:
 ### 🙋‍♂️ Participated
 <img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
 
-
-
-<details>
-<summary>
-  Interested In..
-</summary>
-   Process Mining
-   Data Science
-   Port Logistics
-</details>
+### 📑Interested in
+<img src="https://img.shields.io/badge/Process Mining-2EC5C1?style=flat&logo=Protractor&logoColor=black"/><img src="https://img.shields.io/badge/Data Science-2EC5C1?style=flat&logo=Databricks&logoColor=black"/>
 
 <details>
 <summary>
