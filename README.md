@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=300&section=header&text=YongJae&fontcolor=000000&fontSize=100&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=300&section=header&text=Yong Jae GitHub&fontcolor=000000&fontSize=100&animation=twinkling" />
 
 ### 🔭 I am currently working on BAELAB Pusan National University
 <a href="https://onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-13F42D?style=for-the-badge&logo=Google Scholar&logoColor=000000"/> </a><a href="https://baelab.pusan.ac.kr/baelab/index.do" target="_blank"><img src="https://img.shields.io/badge/Laboratory-D5F408?style=for-the-badge&logo=Amazon EC2&logoColor=000000"/></a>
@@ -23,26 +23,22 @@ Here are some ideas to get you started:
 ### Conference
 <img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
 
+
+
 <details>
 <summary>
   Interested In..
 </summary>
-  
    Process Mining
-   
    Data Science
-   
    Port Logistics
-   
 </details>
 
 <details>
 <summary>
   Want to Learn.. 
 </summary>
-  
    Graph Representation Learning
-   
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongzzai&show_icons=true&theme=radical)
