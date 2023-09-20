@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I am attending Pusan National University
-<a href="https://onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-0D130D?style=for-the-badge&logo=appveyor&logoColor=26D215"/></a>
-
 ### 🔭 I am currently working on BAELAB Pusan National University
-<a href="https://baelab.pusan.ac.kr/baelab/index.do" target="_blank"><img src="https://img.shields.io/badge/Laboratory-0D130D?style=for-the-badge&logo=adminer&logoColor=26D215"/></a>
+<a href="https://onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-0D130D?style=for-the-badge&logo=appveyor&logoColor=26D215"/></a><a href="https://baelab.pusan.ac.kr/baelab/index.do" target="_blank"><img src="https://img.shields.io/badge/Laboratory-0D130D?style=for-the-badge&logo=adminer&logoColor=26D215"/></a>
 
 ### 😄 I am interested in Process Mining, Data Mining
 
