@@ -17,21 +17,24 @@ Here are some ideas to get you started:
 ### 🔭 I am currently working on BAELAB Pusan National University
 <a href="https://onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-0D130D?style=for-the-badge&logo=appveyor&logoColor=26D215"/></a><a href="https://baelab.pusan.ac.kr/baelab/index.do" target="_blank"><img src="https://img.shields.io/badge/Laboratory-0D130D?style=for-the-badge&logo=adminer&logoColor=26D215"/></a>
 
-%20<img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
 
 
 <details>
 <summary>
   Interested In..
 </summary>
-   Process Mining, Data Mining
+   Process Mining
+   Data Science
+   Port Logistics
 </details>
+
 
 <details>
 <summary>
   Want to Learn.. 
 </summary>
-   Graph Representation Learing
+   Graph Representation Learning
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongzzai&show_icons=true&theme=radical)
