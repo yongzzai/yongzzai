@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 </summary>
    Graph Representation Learning
 </details>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongzzai&show_icons=true&theme=radical)
