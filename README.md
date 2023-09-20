@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCEE2F,100:E0E798&height=300&section=header&text=YongJae&fontcolor=84E766&fontSize=100&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=300&section=header&text=YongJae&fontcolor=000000&fontSize=100&animation=twinkling" />
 
 ### 🔭 I am currently working on BAELAB Pusan National University
 <a href="https://onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-0D130D?style=for-the-badge&logo=appveyor&logoColor=26D215"/></a><a href="https://baelab.pusan.ac.kr/baelab/index.do" target="_blank"><img src="https://img.shields.io/badge/Laboratory-0D130D?style=for-the-badge&logo=adminer&logoColor=26D215"/></a>
