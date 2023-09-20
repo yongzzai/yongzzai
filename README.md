@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### 👨‍💼 Working on
 <a href="https://onestop.pusan.ac.kr/login" target="_blank"><img src="https://img.shields.io/badge/University-13F42D?style=for-the-badge&logo=Google Scholar&logoColor=000000"/> </a><a href="https://baelab.pusan.ac.kr/baelab/index.do" target="_blank"><img src="https://img.shields.io/badge/Laboratory-D5F408?style=for-the-badge&logo=Amazon EC2&logoColor=000000"/></a>
 
-### 🧰 Using
+### 💻 Using
 <img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
 
-### 🕴️ Participated
+### 🙋‍♂️ Participated
 <img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
 
 
