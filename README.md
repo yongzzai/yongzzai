@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee Yong Jae GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C69B9&height=150&section=header&text=YJ_GitHub&fontSize=140" />
 
-<img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
 
 
 ### 🔭 I am currently working on BAELAB Pusan National University
