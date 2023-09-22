@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ADSP-55415a?style=flat&logoColor=white"/>&#10;<img src="https://img.shields.io/badge/Soccer instructor certification level D-55415a?style=flat&logoColor=black"/>
 
 ### 🏆 Awards
-<img src="https://img.shields.io/badge/Industrial AI Competition Grand Prize-ffe700?style=flat&logo=Artifact hub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Industrial AI Competition - Grand Prize-ffe700?style=flat&logo=Artifact hub&logoColor=white"/>
 
 </div>
