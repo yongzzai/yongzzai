@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 💻 Using
 <img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/>&#10;<img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
 
-### 🙋‍♂️ Participated
+### 🙋‍♂️ Conference
 <img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
 
 ### 📑Interested in
