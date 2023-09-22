@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ### 🙋‍♂️ Conference
 <img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
 
-### 📑Interested in
+### 📑 Interested in
 <img src="https://img.shields.io/badge/Process Mining-28D83A?style=flat&logo=Protractor&logoColor=black"/>&#10;<img src="https://img.shields.io/badge/Data Science-28D83A?style=flat&logo=Databricks&logoColor=black"/>&#10;<img src="https://img.shields.io/badge/Graph Representation Learning-28D83A?style=flat&logo=GraphQL&logoColor=black"/>
 
-### 📰 certificate
+### 📰 Certificate
 <img src="https://img.shields.io/badge/ADSP-55415a?style=flat&logoColor=white"/>&#10;<img src="https://img.shields.io/badge/Soccer instructor certification level D-55415a?style=flat&logoColor=black"/>
 
 ### 🏆 Awards
