@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 ### 💻 Using
 <img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/>&#10;<img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
 
-### 🙋‍♂️ Conference
-<img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
-
 ### 📑 Interested in
 <img src="https://img.shields.io/badge/Process Mining-28D83A?style=flat&logo=Protractor&logoColor=black"/>&#10;<img src="https://img.shields.io/badge/Data Science-28D83A?style=flat&logo=Databricks&logoColor=black"/>&#10;<img src="https://img.shields.io/badge/Graph Representation Learning-28D83A?style=flat&logo=GraphQL&logoColor=black"/>
 
+### 🙋‍♂️ Conference
+<img src="https://img.shields.io/badge/LOGMS2023-0197ED?style=flat&logo=Google Scholar&logoColor=white"/>
+
 ### 📰 Certificate
-<img src="https://img.shields.io/badge/ADSP-55415a?style=flat&logoColor=white"/>&#10;<img src="https://img.shields.io/badge/Soccer instructor certification level D-55415a?style=flat&logoColor=black"/>
+<img src="https://img.shields.io/badge/ADSP-55415a?style=flat&logoColor=white"/>&#10;<img src="https://img.shields.io/badge/KFA Soccer Manager Certification Level D-55415a?style=flat&logoColor=black"/>
 
 ### 🏆 Awards
-<img src="https://img.shields.io/badge/Industrial AI Competition - Grand Prize-ffe700?style=flat&logo=Artifact hub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Industrial AI Competition Grand Prize-ffe700?style=flat&logo=Artifact hub&logoColor=white"/>
 
 </div>
