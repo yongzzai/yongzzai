@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Industrial AI Competition Grand Prize-ffe700?style=flat&logo=Artifact hub&logoColor=white"/>
 
 ### 📫 Places lived in
-<img src="https://img.shields.io/badge/Daejeon-ffe700?style=flat"/>
+<img src="https://img.shields.io/badge/Busan-white?style=flat"/>
+<img src="https://img.shields.io/badge/Seoul-white?style=flat"/>
+<img src="https://img.shields.io/badge/Shenzhen-red?style=flat"/>
+<img src="https://img.shields.io/badge/Shanghai-red?style=flat"/>
+
+
 
 </div>
