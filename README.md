@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=300&section=header&text=Yongjae's GitHub&fontcolor=DFDFDF&fontSize=70&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=300&section=header&text=YongJae_GitHub&fontcolor=DFDFDF&fontSize=70&animation=twinkling" />
 <div style="margin-left: auto; margin-right: auto; width:800px; height: 800px; text-align: center;">
     <div 
     style="background: white; height: 85px; display: block;">
