@@ -50,8 +50,6 @@
 <!--             <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?flat&logo=springboot&logoColor=white"/> -->
             <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
             <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-
-            
 <!--             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?flat&logo=postgresql&logoColor=white"/> -->
         </div>
         <div style=
