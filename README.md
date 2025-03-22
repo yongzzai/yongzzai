@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=150px&section=header&text=Welcome to YJGitHub&fontcolor=DFDFDF&fontSize=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&section=header&text=Welcome to YJGitHub&fontcolor=DFDFDF&fontSize=70&animation=twinkling"/>
 <h4 style="font-family: 'Times New Roman'; text-align: center; margin-top: 3px;">👨‍💼 Working on</h4>
 <a href="https://pusan.ac.kr">
     <img src="https://img.shields.io/badge/University-D4F20C?style=for-the-badge&logo=Google Scholar&logoColor=000000"/>
@@ -10,9 +10,7 @@
 <h4 style="font-family: 'Times New Roman'; text-align: center; margin-top: 3px; margin-bottom: 8px;">
     📑 Interested in
 </h4>
-<img src="https://img.shields.io/badge/Business Process Management-28D83A?style=flat&logo=Protractor&logoColor=black"/>
-<img src="https://img.shields.io/badge/Process Mining-28D83A?style=flat&logo=Databricks&logoColor=black"/>
-<img src="https://img.shields.io/badge/Graph Data Science-28D83A?style=flat&logo=GraphQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/Business Process Management-28D83A?style=flat&logo=Protractor&logoColor=black"/><img src="https://img.shields.io/badge/Process Mining-28D83A?style=flat&logo=Databricks&logoColor=black"/><img src="https://img.shields.io/badge/Graph Data Science-28D83A?style=flat&logo=GraphQL&logoColor=black"/>
     <!--row-->
 <h4 style="font-family: 'Times New Roman'; text-align: center; margin-top: 3px; margin-bottom: 2%;">💻 Using</h4>
 <img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/>
