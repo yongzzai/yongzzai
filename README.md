@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=200&section=header&text=YJGitHub&fontcolor=DFDFDF&fontSize=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C70D8,100:699CEA&height=200&section=header&text=Welcome%20to%20YJGitHub&fontcolor=DFDFDF&fontSize=40&animation=twinkling" />
 <h4 style="font-family: 'Times New Roman'; text-align: center; margin-top: 3px;">👨‍💼 Working on</h4>
 <a href="https://pusan.ac.kr">
     <img src="https://img.shields.io/badge/University-D4F20C?style=for-the-badge&logo=Google Scholar&logoColor=000000"/>
