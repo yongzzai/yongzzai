@@ -2,7 +2,7 @@
   Hi 👋 I'm Yongjae Lee, <p>a master's candidate majoring in <br>Industrial Data Science and Engineering.<br> </p>
 </h2>
 
-### 😃 Check out: <br>
+### 😃 Check out my researches: <br>
 
 <a href="https://www.linkedin.com/in/yongjae-lee-93b935312/" target="_blank">
   <img align="left" alt="yongjae's Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin" />
@@ -53,14 +53,14 @@
 
 ### 🙋‍♂️ Conference Proceeding:
 **As a Presenter:&nbsp;&nbsp;** <img src="https://img.shields.io/badge/LOGMS2023-ffffff?style=flat&logo=Google Scholar&logoColor=black"/><br>
-**As a Co-worker:&nbsp;&nbsp;** <img src="https://img.shields.io/badge/KIISS2023-ffffff?style=flat&logo=Google Scholar&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/KIIE2024-ffffff?style=flat&logo=Google Scholar&logoColor=black"/>
+**As a Co-author:&nbsp;&nbsp;** <img src="https://img.shields.io/badge/KIISS2023-ffffff?style=flat&logo=Google Scholar&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/KIIE2024-ffffff?style=flat&logo=Google Scholar&logoColor=black"/>
 <br>
 
 ### 🌏 Places I Lived In
-**Daejeon, Korea** >> Born and raised (1999–2014)<br>
+**Daejeon, Korea** >> Born and raised (1999–2013)<br>
 **Shenzhen, China** >> Attended middle and high school (2014–2016)<br>
-**Seoul, Korea** >> Completed high school (2017-2018)<br>
-**Cheorwon, Korea** >> Served in the 3rd Infantry Division (2019–2020) 🇰🇷💀<br>
+**Seoul, Korea** >> Completed high school (2017)<br>
+**Cheorwon, Korea** >> Served in the 3rd Infantry Division (🇰🇷💀) (2019–2020)<br>
 **Busan, Korea** >> Currently studying (2018–present)<br>
 
 ### 📫 Contact <br>
