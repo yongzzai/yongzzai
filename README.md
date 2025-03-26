@@ -57,11 +57,11 @@
 <br>
 
 ### 🌏 Places I Lived In
-**Daejeon, Korea** Born and raised (1999–2014)<br>
-**Shenzhen, China** Attended middle and high school (2014–2016)<br>
-**Seoul, Korea** Completed high school (2017-2018)<br>
-**Cheorwon, Korea** Served in the 3rd Infantry Division (2019–2020) 🇰🇷💀<br>
-**Busan, Korea** Currently studying (2018–present)<br>
+**Daejeon, Korea** >> Born and raised (1999–2014)<br>
+**Shenzhen, China** >> Attended middle and high school (2014–2016)<br>
+**Seoul, Korea** >> Completed high school (2017-2018)<br>
+**Cheorwon, Korea** >> Served in the 3rd Infantry Division (2019–2020) 🇰🇷💀<br>
+**Busan, Korea** >> Currently studying (2018–present)<br>
 
 ### 📫 Contact <br>
 **yongzzai1102@gmail.com**<br>
