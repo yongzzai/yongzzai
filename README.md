@@ -18,7 +18,7 @@
 ### 📚 Interested in: <br>
 <span>
 <img src="https://img.shields.io/badge/Business Process Management-8c95f0?style=flat&logo=Protractor&logoColor=black"/>
-<img src="https://img.shields.io/badge/BPM%20Tools-8c95f0?style=flat&logo=gear&logoColor=black"/>
+<img src="https://img.shields.io/badge/BPM%20Tools-8c95f0?style=flat&logo=processwire&logoColor=black"/>
 <img src="https://img.shields.io/badge/Process Mining-8c95f0?style=flat&logo=Databricks&logoColor=black"/>
 <img src="https://img.shields.io/badge/Graph Data Science-8c95f0?style=flat&logo=GraphQL&logoColor=black"/>
 </span>
