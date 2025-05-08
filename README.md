@@ -4,7 +4,10 @@
 
 ### 😃 Check out my researches: <br>
 
-<a href="https://www.linkedin.com/in/yongjae-lee-93b935312/" target="_blank"><svg width="22" height="22" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="img"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.327-.024-3.037-1.85-3.037-1.851 0-2.134 1.445-2.134 2.939v5.667H9.354V9h3.414v1.561h.049c.476-.9 1.637-1.85 3.37-1.85 3.598 0 4.268 2.368 4.268 5.457v6.285zM5.337 7.433A2.071 2.071 0 1 1 5.338 3.29a2.071 2.071 0 0 1 0 4.143zM7.114 20.452H3.56V9h3.554v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.205 24 24 23.227 24 22.271V1.729C24 .774 23.205 0 22.225 0z"/></svg></a>
+<a href="https://www.linkedin.com/in/yongjae-lee-93b935312/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
+</a>
+
 <a href="https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=ANZ5fUPSdL5mxyAkNjrQWER1xZodgDUTeZJaelg7etHqZcwFdaCOX21XqFxEzP_stkcVL717xzQCdIyssS9LGhRniTBvACmSZ-QPM17zJpqjz8sTLtK-3x4ArIXL0Ng&user=YxFIm0AAAAAJ" target="_blank">
   <img align="left" alt="yongjae's Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />
 </a>
