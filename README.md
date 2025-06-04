@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/yongjae-lee-93b935312/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
 </a>
-
 <a href="https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=ANZ5fUPSdL5mxyAkNjrQWER1xZodgDUTeZJaelg7etHqZcwFdaCOX21XqFxEzP_stkcVL717xzQCdIyssS9LGhRniTBvACmSZ-QPM17zJpqjz8sTLtK-3x4ArIXL0Ng&user=YxFIm0AAAAAJ" target="_blank">
   <img align="left" alt="yongjae's Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />
 </a>
@@ -29,13 +28,11 @@
 <span>
 <img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </span>
 <br>
 **Framework** <br>
 <span>
 <img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?flat&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?flat&logo=fastapi&logoColor=white"/>
 </span>
 <br>
@@ -54,8 +51,7 @@
 <br>
 
 ### 🙋‍♂️ Conference Proceeding:
-**As a Presenter:&nbsp;&nbsp;** <img src="https://img.shields.io/badge/LOGMS2023-ffffff?style=flat&logo=Google Scholar&logoColor=black"/><br>
-**As a Co-author:&nbsp;&nbsp;** <img src="https://img.shields.io/badge/KIISS2023-ffffff?style=flat&logo=Google Scholar&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/KIIE2024-ffffff?style=flat&logo=Google Scholar&logoColor=black"/>
+**As a Presenter:&nbsp;&nbsp;** LOGMS2023<br>
 <br>
 
 ### 🌏 Places I Lived In
