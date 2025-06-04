@@ -51,7 +51,8 @@
 <br>
 
 ### 🙋‍♂️ Conference Proceeding:
-**As a Presenter:&nbsp;&nbsp;** LOGMS2023<br>
+**As a Presenter:&nbsp;&nbsp;** <br>
+<br> [LOGMS 2023] The 11th International Conf. on Logistics and Maritime Systmes
 <br>
 
 ### 🌏 Places I Lived In
