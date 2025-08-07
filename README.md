@@ -53,7 +53,9 @@
 ### 🙋‍♂️ Conference Proceeding:
 **As a Presenter:&nbsp;&nbsp;** <br>
 <br> [LOGMS 2023] The 11th International Conf. on Logistics and Maritime Systmes
-<br>
+<br> [ICPR 28] International Conference on Production Research 2025
+<br> [BPM 2025 Main Track] 23rd International Conference on Business Process Management
+<br> 
 
 ### 🌏 Places I Lived In
 **Daejeon, Korea** >> Born and raised (1999–2013)<br>
