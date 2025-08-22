@@ -2,7 +2,7 @@
   Hi 👋 I'm Yongjae Lee, <p>a master's candidate majoring in <br>Industrial Data Science and Engineering.<br> </p>
 </h2>
 
-### 😃 Check out my researches: <br>
+### 😃 Click to Check out Yongjae Lee: <br>
 
 <a href="https://www.linkedin.com/in/yongjae-lee-93b935312/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
