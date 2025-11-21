@@ -55,6 +55,7 @@
 <br> [LOGMS 2023] The 11th International Conf. on Logistics and Maritime Systmes
 <br> [ICPR 28] International Conference on Production Research 2025
 <br> [BPM 2025 Main Track] 23rd International Conference on Business Process Management
+<br> [KIIE 2025 Fall Conf.] Korean Institute of Industrial Engineers 2025 Conference
 <br> 
 
 ### 🌏 Places I Lived In
