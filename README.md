@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋 I'm Yongjae Lee, <p>An Associate Research Engineer at the Industrial Artificial Intelligence Research Institute,<br> Pusan National University<br> </p>
+  Hi 👋 I'm Yongjae Lee, <p>An Associate Research Engineer <br>at the Industrial Artificial Intelligence Research Institute,<br> Pusan National University<br> </p>
 </h2>
 
 ### 😃 Click to Check out: <br>
