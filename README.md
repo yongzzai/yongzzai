@@ -6,7 +6,6 @@
 <a href="https://yongzzai.com" target="_blank">
   <p>yongzzai.com</p>
 </a>
-<br>
 
 ### 🌏 Places I Lived In
 **Daejeon, Korea** >> Born and raised (1999–2013)<br>
