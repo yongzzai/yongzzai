@@ -1,54 +1,19 @@
 <h2 align="left">
-  Hi 👋 I'm Yongjae Lee, <p>a master's candidate majoring in <br>Industrial Data Science and Engineering.<br> </p>
+  Hi 👋 I'm Yongjae Lee, <p>An Associate Research Engineer<br>at the Industrial Artificial Intelligence Research Institute, Pusan National University<br> </p>
 </h2>
 
-### 😃 Click to Check out Yongjae Lee: <br>
-
-<a href="https://www.linkedin.com/in/yongjae-lee-93b935312/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=ANZ5fUPSdL5mxyAkNjrQWER1xZodgDUTeZJaelg7etHqZcwFdaCOX21XqFxEzP_stkcVL717xzQCdIyssS9LGhRniTBvACmSZ-QPM17zJpqjz8sTLtK-3x4ArIXL0Ng&user=YxFIm0AAAAAJ" target="_blank">
-  <img align="left" alt="yongjae's Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />
-</a>
-<a href="https://www.researchgate.net/profile/Yongjae-Lee-14?ev=hdr_xprf" target="_blank">
-  <img align="left" alt="yongjae's researchgate" width="22px" src="https://cdn.simpleicons.org/researchgate" />
+### 😃 Click to Check out: <br>
+<a href="https://yongzzai.com" target="_blank">
+  <p>yongzzai.com</p>
 </a>
 <br>
 
 ### 📚 Interested in: <br>
 <span>
 <img src="https://img.shields.io/badge/Business Process Management-8c95f0?style=flat&logo=Protractor&logoColor=black"/>
-<img src="https://img.shields.io/badge/BPM%20Tools-8c95f0?style=flat&logo=processwire&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/Process Mining-8c95f0?style=flat&logo=Databricks&logoColor=black"/>
-<img src="https://img.shields.io/badge/Graph Data Science-8c95f0?style=flat&logo=GraphQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data Science-8c95f0?style=flat&logo=GraphQL&logoColor=black"/>
 </span>
-
-### 💻 Using: <br>
-**Programming Languages** <br>
-<span>
-<img src="https://img.shields.io/badge/Python-1C69B9?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</span>
-<br>
-**Framework** <br>
-<span>
-<img src="https://img.shields.io/badge/PyTorch-B7150F?style=flat&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?flat&logo=fastapi&logoColor=white"/>
-</span>
-<br>
-**Markup** <br>
-<span>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTeX-919191?style=flat&logo=latex&logoColor=white"/>
-</span>
-<br>
-**Database** <br>
-<span>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
-</span>
-<br>
 
 ### 🙋‍♂️ Conference Proceeding:
 **As a Presenter:&nbsp;&nbsp;** <br>
