@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋 I'm Yongjae Lee, <p>An Associate Research Engineer <br>at the Industrial Artificial Intelligence Research Institute,<br> Pusan National University<br> </p>
+  Hi 👋 I'm Yongjae Lee, <p>A Scientific Assistant (Ph.D. Student) <br>at Hasso Plattner Institute,<br> University of Potsdam<br> </p>
 </h2>
 
 ### 😃 Click to Check out: <br>
@@ -8,12 +8,13 @@
 </a>
 
 ### 🌏 Places I Lived In
-**Daejeon, Korea** >> Born and raised (1999–2013)<br>
-**Shenzhen, China** >> Attended middle and high school (2014–2016)<br>
-**Seoul, Korea** >> Completed high school (2017)<br>
+**Berlin, Germany** >> Currently Studying (2026~present)<br>
+**Busan, Korea** >> Completed B.Sc. and M.Sc. (2018–2026)<br>
 **Cheorwon, Korea** >> Served in the 3rd Infantry Division 💀 (🇰🇷) (2019–2020)<br>
-**Busan, Korea** >> Currently studying (2018–present)<br>
+**Seoul, Korea** >> Completed high school (2017)<br>
+**Shenzhen, China** >> Attended middle and high school (2014–2016)<br>
+**Daejeon, Korea** >> Born and raised (1999–2013)<br>
+
 
 ### 📫 Contact <br>
-**yongzzai1102@gmail.com**<br>
-**yongzzai1102@pusan.ac.kr**<br>
+**yongjae.lee@hpi.de<br>
