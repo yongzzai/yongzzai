@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋 I'm Yongjae Lee, <p>A Scientific Assistant (Ph.D. Student) <br>at Hasso Plattner Institute,<br> University of Potsdam<br> </p>
+  Hi 👋 I'm Yongjae Lee, <p>A Scientific Assistant (Ph.D. Student) <br>at Hasso Plattner Institute, Germany<br> </p>
 </h2>
 
 ### 😃 Click to Check out: <br>
